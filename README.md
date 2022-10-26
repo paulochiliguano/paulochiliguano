@@ -5,7 +5,7 @@
 ### Things I'm doing:
 - C++ JUCE engineer at [BairesDev](https://www.bairesdev.com)
 
-Check my [personal website](https://www.pauloesteban.com).
+Check my [personal Github](https://github.com/pauloesteban) and my [personal website](https://www.pauloesteban.com).
 
 ![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulochiliguano&show_icons=true&theme=onedark&count_private=true)
 
